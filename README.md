@@ -4,7 +4,7 @@
 >**🚀Tertarik dengan Pemograman Web, Kecerdasan Tiruan, AIoT dan Machine Learning**
 >**✅Developer Pemula Web & Back-End | HTML, CSS, JavaScript, PHP | Laravel**
 
-* 🌐 **Saat ini saya sedang belajar: Python, Laravel dan Javascript** 
+* 🌐 **Dari pertama belajar dan mungkin seterusnya akan mengulik: Python, Laravel dan Javascript | opsi bahasa lain : C# dan C++** 
 
 ## 🛠️ Tech Stack Saya
 
