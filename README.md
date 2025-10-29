@@ -15,3 +15,10 @@
 | **Database** | <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> |
 | **Framework**| <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"> |
 | **Alat Lain** | <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colaboratory-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> |
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZ0dHkyenphdnkybXA0Nzc4NWt3NmtpYnZwdHJvdXQ5ZHkwN2VsZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" alt="Coding GIF" width="400"/>
+</p>
+
+# 🌐 Selamat datang di Ruang Kode Saya!
