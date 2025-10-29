@@ -1,3 +1,10 @@
+# Welcome To My Profile Comrade!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZ0dHkyenphdnkybXA0Nzc4NWt3NmtpYnZwdHJvdXQ5ZHkwN2VsZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" alt="Coding GIF" width="400"/>
+</p>
+
+
 #💻 **ABOUT ME !**
 >**Halo Guys!👋, Saya Aep Saepul Bahri👋**
 >**Mahasiswa Malas yang di lahirkan dari orang tua yang bersenang - senang 😎**
@@ -17,8 +24,6 @@
 | **Alat Lain** | <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colaboratory-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> |
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZ0dHkyenphdnkybXA0Nzc4NWt3NmtpYnZwdHJvdXQ5ZHkwN2VsZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" alt="Coding GIF" width="400"/>
-</p>
 
-# 🌐 Selamat datang di Ruang Kode Saya!
+
+
