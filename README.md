@@ -1,10 +1,10 @@
-# Halo Guys! 👋 Nama Saya Aep Saepul Bahri
-> **Developer Web & Back-End | HTML, CSS, JavaScript, Python, PHP**
+#💻 **ABOUT ME !**
+>**Halo Guys!👋, Saya Aep Saepul Bahri**
+>**Mahasiswa Malas yang di lahirkan dari orang tua yang bersenang - senang 😎**
+>**Tertarik dengan Pemograman Web, Kecerdasan Tiruan, AIoT dan Machine Learning**
+> **Developer Pemula Web & Back-End | HTML, CSS, JavaScript, PHP | Laravel**
 
-* 🌱 **Saat ini saya sedang belajar: Python, Laravel dan Javascript** 
-* 👯 **Saya ingin berkolaborasi di:** [Jenis proyek yang menarik, misalnya: Proyek *open-source* berbasis Python atau proyek front-end yang menarik]
-* 💬 **Tanyakan tentang:** **HTML/CSS**, **JavaScript (Front-end)**, atau **Dasar-dasar Python** dan **PHP**.
-
+* 🌐 **Saat ini saya sedang belajar: Python, Laravel dan Javascript** 
 
 ## 🛠️ Tech Stack Saya
 
